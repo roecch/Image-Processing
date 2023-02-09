@@ -1,4 +1,4 @@
-Summer of 2021 Project from Norhteastern University CS3500
+'Summer of 2021 Project from Northeastern University CS3500'
 
 ### Image Manipulation Model
 
