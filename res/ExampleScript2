@@ -1,0 +1,14 @@
+create layer one
+current one
+load res\\originalLandscape.ppm
+create layer two
+current two
+load res\\originalLandscape.png
+greyscale
+current one
+sepia
+invisible two
+visible two
+save res\\sepiaLand.png
+current two
+save res\\greyLand.ppm

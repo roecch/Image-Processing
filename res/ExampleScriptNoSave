@@ -1,0 +1,14 @@
+create layer one
+create layer two
+create layer three
+current one
+load res//originalFlowers.jpg
+current two
+load res//originalFlowers.jpg
+delete three # rid of empty layer
+duplicate # there are now three layers
+blur
+current one
+sharpen
+invisible two
+current two
