@@ -1,3 +1,5 @@
+Summer of 2021 Project from Norhteastern University CS3500
+
 ### Image Manipulation Model
 
 _See Image Processing.png for class diagram in the `res` folder._
